@@ -12,7 +12,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <script type="text/javascript">
-	var key = "73ba5abe8af88dbcd7e38268a7747f94";
+	var key = "";
 	var lat = "48.8581126";
 	var lon = "2.3529277";
 	
