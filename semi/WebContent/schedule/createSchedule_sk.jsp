@@ -317,7 +317,7 @@
  
 <script>
 let photopath = 'https://maps.googleapis.com/maps/api/place/photo?maxwidth=1000&photo_reference=';
-let apikey = '&key=AIzaSyBURtfwi-GrNQHLcH9QSc0MJgEzhVdXfzg';
+let apikey = '&key=';
 
   //userid
   let userid = "<%=user_id %>";
