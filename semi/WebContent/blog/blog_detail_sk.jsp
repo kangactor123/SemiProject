@@ -609,7 +609,7 @@ let black = "black";
 //dtolist
 let dayandplace = new Array();
 //날씨변수
-let key = "7a1ac041d1f72d9c0178aea6efe0543c";
+let key = "";
 //코로나 api 변수
 let covid;
 let tripCountry = "<%=bdto.getAreaname() %>";
